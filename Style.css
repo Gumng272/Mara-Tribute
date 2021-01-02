@@ -17,10 +17,15 @@ h1 {
 
 }
 
-p {
-    font-family: copperplate;
-    font-size: 30px;
+#sub {
     text-align: center;
+    font-size: 30px;
+    font-family: copperplate;
+    
+}
+
+p {
+    
 }
 
 body {
