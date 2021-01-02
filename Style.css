@@ -1,0 +1,55 @@
+html {
+    font-size: 15px;
+    background-color: #A333B7;
+    border-style: solid;
+    border-width: 20px;
+
+
+}
+
+
+h1 {
+    font-family: papyrus;
+    font-size: 40px;
+    font-style: italic;
+    text-align: center;
+    
+
+}
+
+p {
+    font-family: copperplate;
+    font-size: 30px;
+    text-align: center;
+}
+
+body {
+    font-size: 18px;
+    word-spacing: 4px;    
+}
+
+
+#Agent {
+    height: 500px;
+}
+
+#image {
+    height: 500px;
+}
+
+#img-div {
+    background: black;
+    padding: 10px;
+    margin: 10;
+}
+
+#img-caption {
+    font-size: 18px;
+
+}
+
+#headline {
+    font-size: 30px;
+    text-align: center;
+
+}
